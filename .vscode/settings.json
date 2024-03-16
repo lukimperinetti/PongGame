@@ -1,0 +1,9 @@
+{
+    "Lua.diagnostics.globals": [
+        "love",
+        "pad",
+        "pad2",
+        "ball",
+        "ballReset"
+    ]
+}
