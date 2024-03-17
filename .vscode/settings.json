@@ -4,6 +4,12 @@
         "pad",
         "pad2",
         "ball",
-        "ballReset"
+        "ballReset",
+        "middleLine",
+        "pad1Score",
+        "pad2Score",
+        "newGame",
+        "start",
+        "startmsg"
     ]
 }
